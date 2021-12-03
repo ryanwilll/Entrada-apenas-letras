@@ -6,7 +6,7 @@
 
 
 rNome:
-    printf("Digite o nome do Paciente (Sem acentos, Numerais ou caracteres Especiais): ");
+    printf("Digite o nome (Sem acentos, Numerais ou caracteres Especiais): ");
     do
     {
        c=getch();//captura o caractere digitado pelo usuário
